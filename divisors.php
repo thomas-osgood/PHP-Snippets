@@ -1,3 +1,4 @@
+<?php
 /*
     Function to determine the divisors of
     a given integer.  If the only, divisors
@@ -20,3 +21,4 @@ function divisors($integer) {
   
   return $retVal;
 }
+?>

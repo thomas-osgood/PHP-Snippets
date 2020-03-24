@@ -1,3 +1,4 @@
+<?php
 /*
     Function to determine the factorial of a value
     between (and including) 0 and 12.
@@ -19,3 +20,4 @@ function factorial(int $n): int {
   
   return $retVal;
 }
+?>
